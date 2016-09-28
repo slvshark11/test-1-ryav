@@ -1,0 +1,44 @@
+<html> 
+<head> 
+<style> 
+div { font-family: 'Times New Roman', Times, serif; 
+font-size: 250%; 
+font-weight: 600; 
+line-height: 1.5; 
+} 
+div2 { font-family: 'Times New Roman', Times, serif; 
+font-size: 200%; 
+font-weight: 400; 
+line-height: 2.5; 
+} 
+h1 
+{ 
+font-family: 'Times New Roman'; 
+font-style: italic; 
+font-size: 100%; 
+line-height: 1.5; 
+letter-spacing: 2px; 
+padding: 30px; 
+} 
+</style> 
+<body> 
+<div>1. Уравнения<br /> </div> 
+<h1> 
+1. x2+2x+1=0<br /> 
+2. (x+1)x=(x-1)2x<br /> 
+3. sin2x=cos(pi-x)</h1> 
+<div>2. Таблицы<br /> </div> 
+<div2> 
+2.1. Структура 
+</div2> 
+<table border="1"> 
+<tr> 
+<th></th> 
+<th>Колонки</th> 
+</tr> 
+<tr><td>Строки</td><td>Ячейка А</td><td>Ячейка В</td></tr> 
+<tr><td> </td><td>Ячейка D</td><td>Ячейка С</td></tr> 
+</table> 
+</body> 
+</head> 
+</html>
